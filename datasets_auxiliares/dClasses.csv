@@ -1,0 +1,789 @@
+codigo,descricao,sigla,cod_descricao
+1000,Agravo,Ag,1000:Agravo
+1420,Guarda,Guarda,1420:Guarda
+200,Agravos,Agr,200:Agravos
+1209,Agravos,Ag,1209:Agravos
+409,Anistia,Anisti,409:Anistia
+80,Avarias,Avaria,80:Avarias
+92,Despejo,Despej,92:Despejo
+100,Dúvida,Duvida,100:Dúvida
+410,Indulto,Indult,410:Indulto
+12562,Pet-Adm,PET-ADM,12562:Pet-Adm
+1401,Adoção,Adocao,1401:Adoção
+178,Arresto ,Arrest,178:Arresto 
+180,Atentado,Atent,180:Atentado
+182,Caução,Cauçao,182:Caução
+11551,Consulta,CtaEl,11551:Consulta
+12234,Curatela,Cur,12234:Curatela
+191,Protesto,Protes,191:Protesto
+12228,Protesto,Protes,12228:Protesto
+1364,Denúncia,Den,1364:Denúncia
+35,Depósito,Deposi,35:Depósito
+1333,Inquerito,Inq,1333:Inquerito
+304,Liberdade,Liberd,304:Liberdade
+1057,Petição,Pet,1057:Petição
+1338,Petição,Pet,1338:Petição
+12127,Remição,Rem,12127:Remição
+142,Sonegados,Sonega,142:Sonegados
+11894, Comissão,Comissão,11894: Comissão
+11043,Deserção,Des,11043:Deserção
+224,Exceções,Exceco,224:Exceções
+186,Exibição,Exibic,186:Exibição
+1042,Inquérito,Inq,1042:Inquérito
+1304,Inspeção,Insp,1304:Inspeção
+40,Monitória,Monito,40:Monitória
+236,Oposição,Oposic,236:Oposição
+12783,Oposição,Ops,12783:Oposição
+196,Seqüestro,Seques,196:Seqüestro
+329,Seqüestro,Seques,329:Seqüestro
+49,Usucapião,Usucap,49:Usucapião
+238,Avocatória,Avocat,238:Avocatória
+11542,Correição,Cor,11542:Correição
+11544,Instrução,Inst,11544:Instrução
+39,Inventário,Invent,39:Inventário
+1265,Precatório,Precat,1265:Precatório
+1677,Precatório,Prc,1677:Precatório
+1330,Extradição,Ext,1330:Extradição
+11044,Insubmissão,Insub,11044:Insubmissão
+58,Interdição,Interd,58:Interdição
+1377,Queixa Crime,QC,1377:Queixa Crime
+1028,Sindicância,SD,1028:Sindicância
+1308,Sindicância,Sind,1308:Sindicância
+1472,Advertência ,Advert,1472:Advertência 
+11888,Ato Normativo,Ato,11888:Ato Normativo
+242,Comunicação,Cm,242:Comunicação
+1325,Comunicação,Cm,1325:Comunicação
+1671,Comunicação,Com,1671:Comunicação
+1415,Emancipação,Emanci,1415:Emancipação
+1331,Habeas Corpus,HC,1331:Habeas Corpus
+1720,Habeas Corpus,HC,1720:Habeas Corpus
+38,Habilitação,Habili,38:Habilitação
+11889,Nota Técnica,NT,11889:Nota Técnica
+1373,Notificação,Not,1373:Notificação
+1725,Notificação,Notif,1725:Notificação
+12226,Notificação,Notif,12226:Notificação
+1424,Providência ,Prov,1424:Providência 
+1468,Semiliberdade,Semili,1468:Semiliberdade
+48,Sobrepartilha,Sobrep,48:Sobrepartilha
+12233,Tutela Cível,TutCiv,12233:Tutela Cível
+1319,Agravo Interno,AgIn,1319:Agravo Interno
+66,Ação Popular,APop,66:Ação Popular
+12082,Carta Arbitral,CartArb,12082:Carta Arbitral
+1371,Interpelação,Int,1371:Interpelação
+1726,Interpelação,Inter,1726:Interpelação
+12227,Interpelação,Interp,12227:Interpelação
+190,Justificação,Justif,190:Justificação
+270,Notícia-Crime,Notici,270:Notícia-Crime
+1375,Processo Crime,PC,1375:Processo Crime
+1291,Reabilitação,Reabil,1291:Reabilitação
+1385,Seção Cível,SecCiv,1385:Seção Cível
+12121,Auto De Prisão,APri,12121:Auto De Prisão
+1311,Ação Cautelar,AC,1311:Ação Cautelar
+12061,Ação Cautelar,AC,12061:Ação Cautelar
+83,Cautelar Fiscal,CauFis,83:Cautelar Fiscal
+274,Interpelações,Interp,274:Interpelações
+11545,Lista Tríplice,LT,11545:Lista Tríplice
+1062,Medida Cautelar,MC,1062:Medida Cautelar
+1337,Medida Cautelar,MC,1337:Medida Cautelar
+121,Naturalização,Natura,121:Naturalização
+12123,Roteiro De Pena,RPen,12123:Roteiro De Pena
+1295,Alvará Judicial,Alvará,1295:Alvará Judicial
+1047,Carta Rogatória,Rog,1047:Carta Rogatória
+1324,Carta Rogatória,Rogato,1324:Carta Rogatória
+90,Desapropriação,Desapr,90:Desapropriação
+96,Discriminatória,Discri,96:Discriminatória
+57,Herança Jacente,HerJac,57:Herança Jacente
+241,Petição Cível,PetCiv,241:Petição Cível
+11028,Processo Militar,ProcMil,11028:Processo Militar
+1343,Recurso Criminal,RC,1343:Recurso Criminal
+1267,Recurso De Multa,RM,1267:Recurso De Multa
+213,Recurso Especial,REsp,213:Recurso Especial
+1032,Recurso Especial,REsp,1032:Recurso Especial
+134,Registro Torrens,RegTor,134:Registro Torrens
+1321,Agravo Regimental,AgR,1321:Agravo Regimental
+198,Apelação Cível,ApCiv,198:Apelação Cível
+1035,Apelação Cível,ApC,1035:Apelação Cível
+1358,Apelação Cível,ACi,1358:Apelação Cível
+30,Arrolamento Comum,ArrCom,30:Arrolamento Comum
+1357,Ação Regressiva,ARg,1357:Ação Regressiva
+293,Crimes Ambientais,CriAmb,293:Crimes Ambientais
+1233,Efeito Suspensivo,ES,1233:Efeito Suspensivo
+408,Excesso Ou Desvio,ExcDes,408:Excesso Ou Desvio
+1116,Execução Fiscal,ExFis,1116:Execução Fiscal
+113,Imissão Na Posse,ImiPos,113:Imissão Na Posse
+312,Pedido De Prisão,PedPri,312:Pedido De Prisão
+175,Processo Cautelar,ProcCau,175:Processo Cautelar
+268,Processo Criminal,ProCri,268:Processo Criminal
+11030,Processo Criminal,ProcCrim,11030:Processo Criminal
+284,Processo Especial,ProEsp,284:Processo Especial
+1376,Processo Judicial,PJ,1376:Processo Judicial
+1341,Questão De Ordem,QO,1341:Questão De Ordem
+11548,Recurso Eleitoral,REl,11548:Recurso Eleitoral
+11957,Remição De Pena,RemPena,11957:Remição De Pena
+428,Revisão Criminal,RvC,428:Revisão Criminal
+1349,Revisão Criminal,RvC,1349:Revisão Criminal
+1678,Revisão Criminal,RvCr,1678:Revisão Criminal
+12394,Revisão Criminal,RevCrim,12394:Revisão Criminal
+237,Atos E Expedientes,AtoExp,237:Atos E Expedientes
+12232,Ação De Partilha,APart,12232:Ação De Partilha
+12389,Ação De Partilha,APart,12389:Ação De Partilha
+181,Busca E Apreensão,BusApr,181:Busca E Apreensão
+183,Cautelar Inominada,CauInom,183:Cautelar Inominada
+407,Conversão De Pena,Conver,407:Conversão De Pena
+297,Crimes De Imprensa,CriImp,297:Crimes De Imprensa
+987,Dissídio Coletivo,DC,987:Dissídio Coletivo
+1365,Embargos Remetidos,ER,1365:Embargos Remetidos
+386,Execução Da Pena,ExPe,386:Execução Da Pena
+12789,Execução De Pena,EP,12789:Execução De Pena
+165,Insolvência Civil,InsCiv,165:Insolvência Civil
+308,Medidas Cautelares,MedCau,308:Medidas Cautelares
+1727,Petição Criminal,PetCrim,1727:Petição Criminal
+281,Procedimento Comum,ProcedCom,281:Procedimento Comum
+11427,Processo Eleitoral,ProEl,11427:Processo Eleitoral
+1008,Recurso De Revista,RR,1008:Recurso De Revista
+1380,Recurso De Revista,RR,1380:Recurso De Revista
+1031,Recurso Ordinário,RO,1031:Recurso Ordinário
+1383,Sentença Arbitral,SA,1383:Sentença Arbitral
+12249,Suspensão Em Irdr,SusIRDR,12249:Suspensão Em Irdr
+12250,Suspensão Em Irdr,SusIRDR,12250:Suspensão Em Irdr
+417,Apelação Criminal,ApCrim,417:Apelação Criminal
+1359,Apelação Criminal,ACr,1359:Apelação Criminal
+77,Arribadas Forçadas,ArrFor,77:Arribadas Forçadas
+179,Arrolamento De Bens,ArrBen,179:Arrolamento De Bens
+1312,Ação  Originária,ACO,1312:Ação  Originária
+1389,Ação De Alimentos,AAlim,1389:Ação De Alimentos
+411,Comutação De Pena,ComPen,411:Comutação De Pena
+12625,Direito De Resposta,DR,12625:Direito De Resposta
+12552,Direitos Políticos,DP,12552:Direitos Políticos
+1715,Embargos Do Acusado,EmbAc,1715:Embargos Do Acusado
+1435,Execução De Multa,ExeMul,1435:Execução De Multa
+279,Inquérito Policial,IP,279:Inquérito Policial
+1369,Inquérito Policial,IP,1369:Inquérito Policial
+1469,Liberdade Assistida,LibAss,1469:Liberdade Assistida
+11547,Recursos Eleitorais,RsEls,11547:Recursos Eleitorais
+12558,Registro De Debates,RD,12558:Registro De Debates
+1459,Seção Infracional,SecInfr,1459:Seção Infracional
+31,Arrolamento Sumário,ArrSum,31:Arrolamento Sumário
+418,Carta Testemunhável,CT,418:Carta Testemunhável
+1361,Carta Testemunhável,CT,1361:Carta Testemunhável
+85,Compromisso Arbitral,ComArb,85:Compromisso Arbitral
+12551,Descarte De Material,DM,12551:Descarte De Material
+11046,Deserção De Praça,DesPr,11046:Deserção De Praça
+98,Divórcio Consensual,DivCon,98:Divórcio Consensual
+12372,Divórcio Consensual,DivCons,12372:Divórcio Consensual
+1328,Embargos Divergentes,EDv,1328:Embargos Divergentes
+324,Exceção Da Verdade,Verdad,324:Exceção Da Verdade
+1063,Exceção Da Verdade,ExVerd,1063:Exceção Da Verdade
+1366,Exceção Da Verdade,EV,1366:Exceção Da Verdade
+1269,Habeas Corpus Cível,HCCiv,1269:Habeas Corpus Cível
+303,Medidas Garantidoras,MedGar,303:Medidas Garantidoras
+214,Outros Procedimentos,OutPro,214:Outros Procedimentos
+1374,Pedido De Avocação,PAv,1374:Pedido De Avocação
+1436,Processos Cautelares,ProCau,1436:Processos Cautelares
+11039,Reclamação Militar,RclMil,11039:Reclamação Militar
+12126,Regressão De Regime,RegRem,12126:Regressão De Regime
+11892,Revisão Disciplinar,RevDis,11892:Revisão Disciplinar
+1208,Agravo Interno Cível,AgIntCiv,1208:Agravo Interno Cível
+63,Ação Civil Coletiva,ACC,63:Ação Civil Coletiva
+65,Ação Civil Pública,ACPCiv,65:Ação Civil Pública
+980,Ação De Cumprimento,ACum,980:Ação De Cumprimento
+258,Carta De Ordem Cível,CartOrdCiv,258:Carta De Ordem Cível
+11045,Deserção De Oficial,DesOf,11045:Deserção De Oficial
+208,Embargos Infringentes,EI,208:Embargos Infringentes
+1007,Embargos Infringentes,EIT,1007:Embargos Infringentes
+1329,Embargos Infringentes,EI,1329:Embargos Infringentes
+1334,Intervenção Federal,IF,1334:Intervenção Federal
+1674,Intervenção Federal,IF,1674:Intervenção Federal
+1029,Mandado De Segurança,MS,1029:Mandado De Segurança
+1336,Mandado De Segurança,MS,1336:Mandado De Segurança
+10979,Petição Infracional,PetInfJuvInfr,10979:Petição Infracional
+11531,Prestação De Contas,PC,11531:Prestação De Contas
+11031,Procedimento Especial,ProcEsp,11031:Procedimento Especial
+22,Procedimento Sumário,ProSum,22:Procedimento Sumário
+12125,Progressão De Regime,ProgRem,12125:Progressão De Regime
+12122,Reclamação Criminal,ReclCrim,12122:Reclamação Criminal
+1071,Recursos Trabalhistas,RecTrab,1071:Recursos Trabalhistas
+135,Relatório Falimentar,RelFal,135:Relatório Falimentar
+140,Revisional De Aluguel,RevAlu,140:Revisional De Aluguel
+1026,Sentença Estrangeira,SE,1026:Sentença Estrangeira
+1350,Sentença Estrangeira,SE,1350:Sentença Estrangeira
+195,Separação De Corpos,SepCor,195:Separação De Corpos
+141,Separação Litigiosa,SepLit,141:Separação Litigiosa
+12784,Suspeição De Perito,SPer,12784:Suspeição De Perito
+1352,Suspensão De Liminar,SL,1352:Suspensão De Liminar
+278,Termo Circunstanciado,TCO,278:Termo Circunstanciado
+1284,Unificação De Penas,UniPen,1284:Unificação De Penas
+1703,Autorização Judicial,AutoJud,1703:Autorização Judicial
+11528,Ação Penal Eleitoral,APEl,11528:Ação Penal Eleitoral
+1307,Correição Ordinária,CorOrd,1307:Correição Ordinária
+172,Embargos À Execução,EE,172:Embargos À Execução
+12785,Embargos À Execução,EE,12785:Embargos À Execução
+1714,Execução Provisória,ExeProv,1714:Execução Provisória
+12554,Filiação Partidária,FP,12554:Filiação Partidária
+307,Habeas Corpus Criminal,HCCrim,307:Habeas Corpus Criminal
+232,Incidente De Falsidade,IncFal,232:Incidente De Falsidade
+332,Incidente De Falsidade,IncFal,332:Incidente De Falsidade
+12782,Incidente De Falsidade,IFa,12782:Incidente De Falsidade
+1709,Interdito Proibitório,Interdito,1709:Interdito Proibitório
+12128,Livramento Condicional,LivCond,12128:Livramento Condicional
+269,Medidas Preparatórias,MedPre,269:Medidas Preparatórias
+1701,Nomeação De Advogado,NomAdv,1701:Nomeação De Advogado
+12465,Petição Corregedoria,PetCor,12465:Petição Corregedoria
+158,Processo De Execução,ProcExe,158:Processo De Execução
+1430,Processo De Execução,ProExe,1430:Processo De Execução
+11536,Propaganda Partidária,PropPart,11536:Propaganda Partidária
+129,Recuperação Judicial,RecJud,129:Recuperação Judicial
+1299,Recurso Administrativo,RecAdm,1299:Recurso Administrativo
+1345,Recurso Em Habeas Data,RHD,1345:Recurso Em Habeas Data
+306,Relaxamento De Prisão,RelPri,306:Relaxamento De Prisão
+11546,Revisão De Eleitorado,RvE,11546:Revisão De Eleitorado
+60,Separação Consensual,SepCon,60:Separação Consensual
+1384,Suspensão De Direitos,SD,1384:Suspensão De Direitos
+12780,Admissão De Assistente,AAs,12780:Admissão De Assistente
+177,Apreensão De  Títulos,AprTit,177:Apreensão De  Títulos
+11530,Apuração De Eleição,AE,11530:Apuração De Eleição
+45,Ação De Exigir Contas,AEC,45:Ação De Exigir Contas
+335,Carta De Ordem Criminal,CartOrdCrim,335:Carta De Ordem Criminal
+264,Carta Rogatória Cível,RogatoCiv,264:Carta Rogatória Cível
+1680,Consulta Administrativa,ConsAdm,1680:Consulta Administrativa
+1723,Contraprotesto Judicial,CProt,1723:Contraprotesto Judicial
+34,Demarcação / Divisão,DemDiv,34:Demarcação / Divisão
+1112,Execução De Alimentos,ExeAli,1112:Execução De Alimentos
+1070,Incidentes Trabalhistas,IncTra,1070:Incidentes Trabalhistas
+1034,Interpelação Judicial,IJ,1034:Interpelação Judicial
+328,Medidas Assecuratórias,MedAss,328:Medidas Assecuratórias
+11552,Pedido De Desaforamento,PDEl,11552:Pedido De Desaforamento
+1199,Pedido De Providências,PP,1199:Pedido De Providências
+26,Procedimentos Especiais,ProEsp,26:Procedimentos Especiais
+1298,Processo Administrativo,PA,1298:Processo Administrativo
+1340,Processo Administrativo,PAdm,1340:Processo Administrativo
+422,Protesto Por Novo Júri,PrNoJu,422:Protesto Por Novo Júri
+212,Recurso Extraordinário,RE,212:Recurso Extraordinário
+1348,Recurso Extraordinário,RE,1348:Recurso Extraordinário
+11532,Registro De Candidatura,RCand,11532:Registro De Candidatura
+12764,Separação Contenciosa,SepCon,12764:Separação Contenciosa
+206,Agravo Regimental Cível,AgRCiv,206:Agravo Regimental Cível
+176,Alimentos - Provisionais,AliPro,176:Alimentos - Provisionais
+330,Arresto / Hipoteca Legal,ArrHipLeg,330:Arresto / Hipoteca Legal
+218,Assistência Judiciária,AssJud,218:Assistência Judiciária
+11787,Assistência Judiciária,AssJudCrim,11787:Assistência Judiciária
+261,Carta Precatória Cível,CartPrecCiv,261:Carta Precatória Cível
+1053,Conflito De Atribuição,CAt,1053:Conflito De Atribuição
+1285,Conflito De Atribuição,CA,1285:Conflito De Atribuição
+325,Conflito De Jurisdição,ConfJurisd,325:Conflito De Jurisdição
+1363,Conflito De Jurisdição,CJ,1363:Conflito De Jurisdição
+156,Cumprimento De Sentença,CumSen,156:Cumprimento De Sentença
+1327,Embargos De Declaração,ED,1327:Embargos De Declaração
+323,Exceção De Impedimento,ExcImpedi,323:Exceção De Impedimento
+1230,Exceção De Impedimento,ExcImp,1230:Exceção De Impedimento
+1672,Exceção De Impedimento,ExImp,1672:Exceção De Impedimento
+318,Exceção De Suspeição,ExcSuspei,318:Exceção De Suspeição
+1231,Exceção De Suspeição,ExcSusp,1231:Exceção De Suspeição
+1367,Exceção De Suspeição,ES,1367:Exceção De Suspeição
+1673,Exceção De Suspeição,ExSusp,1673:Exceção De Suspeição
+114,Impugnação De Crédito,ImpCre,114:Impugnação De Crédito
+115,Inquérito Extrajudicial,InqExt,115:Inquérito Extrajudicial
+12073,Internação Provisória,InterProv,12073:Internação Provisória
+41,Nunciação De Obra Nova,NunciObr,41:Nunciação De Obra Nova
+122,Opção De Nacionalidade,OpcNac,122:Opção De Nacionalidade
+12071,Procedimentos Cautelares,ProcCau,12071:Procedimentos Cautelares
+1106,Processo De Conhecimento,ProcCon,1106:Processo De Conhecimento
+1386,Processo De Conhecimento,ProCon,1386:Processo De Conhecimento
+127,Protesto Formado A Bordo,PrFoBo,127:Protesto Formado A Bordo
+12229,Protesto Formado A Bordo,PrFoBo,12229:Protesto Formado A Bordo
+1301,Reclamação Disciplinar,RD,1301:Reclamação Disciplinar
+1344,Recurso Em Habeas Corpus,RHC,1344:Recurso Em Habeas Corpus
+460,Recurso Inominado Cível,RecInoCiv,460:Recurso Inominado Cível
+271,Representação Criminal,RpCr,271:Representação Criminal
+1310,Supremo Tribunal Federal,STF,1310:Supremo Tribunal Federal
+1353,Suspensão De Segurança,SS,1353:Suspensão De Segurança
+1679,Suspensão De Segurança,SS,1679:Suspensão De Segurança
+1360,Arguição De Relevância,ARv,1360:Arguição De Relevância
+1323,Arguição De Suspeição,AS,1323:Arguição De Suspeição
+1315,Ação Cível Originária,AO,1315:Ação Cível Originária
+375,Carta Rogatória Criminal,RogatoCrim,375:Carta Rogatória Criminal
+1362,Conflito De Atribuições,CA,1362:Conflito De Atribuições
+55,Declaração De Ausência,DecAus,55:Declaração De Ausência
+170,Embargos À Adjudicação,EAdj,170:Embargos À Adjudicação
+171,Embargos À Arrematação,EArr,171:Embargos À Arrematação
+111,Habilitação De Crédito,HabCre,111:Habilitação De Crédito
+1368,Inquérito Administrativo,IA,1368:Inquérito Administrativo
+12466,Inquérito Administrativo,IA,12466:Inquérito Administrativo
+1372,Liquidação De Sentença,LS,1372:Liquidação De Sentença
+7,Procedimento Comum Cível,ProceComCiv,7:Procedimento Comum Cível
+11040,Recurso Inominado Militar,RecInMil,11040:Recurso Inominado Militar
+211,Recurso Ordinário Cível,ROCiv,211:Recurso Ordinário Cível
+137,Renovatória De Locação,RenLoc,137:Renovatória De Locação
+413,Agravo De Execução Penal,AgExPe,413:Agravo De Execução Penal
+11881,Agravo Em Recurso Especial,AgREsp,11881:Agravo Em Recurso Especial
+1729,Agravo Regimental Criminal,ArRCrim,1729:Agravo Regimental Criminal
+1474,Carta De Ordem Infracional,CartOrdInfr,1474:Carta De Ordem Infracional
+355,Carta Precatória Criminal,CartPrecCrim,355:Carta Precatória Criminal
+32,Consignação Em Pagamento,ConPag,32:Consignação Em Pagamento
+10942,Correição Parcial Cível,CorreParcCiv,10942:Correição Parcial Cível
+89,Depósito Da Lei 8. 866/94,Depos,89:Depósito Da Lei 8. 866/94
+322,Exceção De Coisa Julgada,CoiJul,322:Exceção De Coisa Julgada
+240,Instrução De Rescisória,InsRes,240:Instrução De Rescisória
+12629,Pedido De Novas Eleições,PNE,12629:Pedido De Novas Eleições
+192,Posse Em Nome Do Nascituro,PoNoNa,192:Posse Em Nome Do Nascituro
+1067,Procedimentos Trabalhistas,ProcedTrab,1067:Procedimentos Trabalhistas
+11549,Recurso Especial Eleitoral,REspEl,11549:Recurso Especial Eleitoral
+199,Remessa Necessária Cível,RemNecCiv,199:Remessa Necessária Cível
+234,Remoção De Inventariante,RemInv,234:Remoção De Inventariante
+12369,Tomada De Decisão Apoiada,TDA,12369:Tomada De Decisão Apoiada
+12370,Tomada De Decisão Apoiada,TDA,12370:Tomada De Decisão Apoiada
+76,Apreensão De Embarcações,AprEmb,76:Apreensão De Embarcações
+1316,Ação Originária Especial,AOE,1316:Ação Originária Especial
+11955,Cautelar Inominada Criminal,CauInomCrim,11955:Cautelar Inominada Criminal
+54,Confirmação De Testamento,ConTes,54:Confirmação De Testamento
+11034,Conselho De Justificação ,ConsJust,11034:Conselho De Justificação 
+86,Consignatória De Aluguéis,ConAlu,86:Consignatória De Aluguéis
+1303,Correição Extraordinária,CorExt,1303:Correição Extraordinária
+11042,Correição Parcial Militar,CorParMil,11042:Correição Parcial Militar
+432,Desaforamento De Julgamento,Desafor,432:Desaforamento De Julgamento
+988,Dissídio Coletivo De Greve,DCG,988:Dissídio Coletivo De Greve
+37,Embargos De Terceiro Cível,ETCiv,37:Embargos De Terceiro Cível
+1232,Exceção De Incompetência,ExcInc,1232:Exceção De Incompetência
+10933,Habilitação Para Adoção,HabAdo,10933:Habilitação Para Adoção
+11041,Inquérito Policial Militar,IPM,11041:Inquérito Policial Militar
+1297,Intervenção Em Município,IntMun,1297:Intervenção Em Município
+1289,Outras Medidas Provisionais,OuMePr,1289:Outras Medidas Provisionais
+12377,Prestação De Contas Anual,PC-PP,12377:Prestação De Contas Anual
+12075,Procedimento Conciliatório,PCon,12075:Procedimento Conciliatório
+128,Recuperação Extrajudicial,RecExt,128:Recuperação Extrajudicial
+194,Regulamentação De Visitas,RegVis,194:Regulamentação De Visitas
+12084,Tutela Cautelar Antecedente,TutCautAntec,12084:Tutela Cautelar Antecedente
+12134,Tutela Cautelar Antecedente,TutCautAnt,12134:Tutela Cautelar Antecedente
+52,Alienação Judicial De Bens,AlJuBe,52:Alienação Judicial De Bens
+280,Auto De Prisão Em Flagrante,AuPrFl,280:Auto De Prisão Em Flagrante
+123,Averiguação De Paternidade,AvePat,123:Averiguação De Paternidade
+1356,Ação Ordinária Regressiva,AOR,1356:Ação Ordinária Regressiva
+12627,Ação Rescisória Eleitoral,ARE,12627:Ação Rescisória Eleitoral
+419,Correição Parcial Criminal,CorPar,419:Correição Parcial Criminal
+320,Exceção De Litispendência,Litisp,320:Exceção De Litispendência
+239,Habilitação Para Casamento,HabCas,239:Habilitação Para Casamento
+10960,Incidente De Sanidade Mental,IncSaniMen,10960:Incidente De Sanidade Mental
+1370,Inquérito Policial Especial,IPE,1370:Inquérito Policial Especial
+333,Insanidade Mental Do Acusado,InsanAc,333:Insanidade Mental Do Acusado
+120,Mandado De Segurança Cível,MSCiv,120:Mandado De Segurança Cível
+313,Pedido De Prisão Preventiva,PePrPr,313:Pedido De Prisão Preventiva
+1107,Procedimento De Conhecimento,ProcedCon,1107:Procedimento De Conhecimento
+150,Procedimento De Liquidação,ProLiq,150:Procedimento De Liquidação
+11525,Processos Cíveis-Eleitorais,ProcCivEl,11525:Processos Cíveis-Eleitorais
+11875,Reclamação Pré-Processual,RPP,11875:Reclamação Pré-Processual
+11550,Recurso Ordinário Eleitoral,RO-El,11550:Recurso Ordinário Eleitoral
+79,Regulação De Avaria Grossa,RegAvaG,79:Regulação De Avaria Grossa
+12376,Regulação De Avaria Grossa,RegAvGr,12376:Regulação De Avaria Grossa
+427,Remessa Necessária Criminal,RemNecCrim,427:Remessa Necessária Criminal
+1396,Tutela Infância E Juventude,TutelaIJ,1396:Tutela Infância E Juventude
+1005,Agravo Regimental Trabalhista,AgRT,1005:Agravo Regimental Trabalhista
+12371,Alteração De Regime De Bens,AlReBe,12371:Alteração De Regime De Bens
+72,Alteração Do Regime De Bens,AlReBe,72:Alteração Do Regime De Bens
+1478,Carta Precatória Infracional,CartPrecInfr,1478:Carta Precatória Infracional
+12139,Contestação Em Foro Diverso,ContForoDiv,12139:Contestação Em Foro Diverso
+327,Embargos De Terceiro Criminal,ETCrim,327:Embargos De Terceiro Criminal
+1118,Embargos À Execução Fiscal,EEFis,1118:Embargos À Execução Fiscal
+1024,Execução Em Medida Cautelar,ExeMC,1024:Execução Em Medida Cautelar
+188,Homologação Do Penhor Legal,HomPen,188:Homologação Do Penhor Legal
+12761,Homologação Do Penhor Legal,HomPen,12761:Homologação Do Penhor Legal
+151,Liquidação Por Arbitramento,LiqArb,151:Liquidação Por Arbitramento
+1471,Obrigação De Reparar O Dano,ObReDa,1471:Obrigação De Reparar O Dano
+314,Pedido De Prisão Temporária,PePrTe,314:Pedido De Prisão Temporária
+1198,Procedimentos Administrativos,ProcAdm,1198:Procedimentos Administrativos
+2,Processo Cível E Do Trabalho,ProcCivTrab,2:Processo Cível E Do Trabalho
+11882,Recurso De Revista Com Agravo,RRAg,11882:Recurso De Revista Com Agravo
+425,Recurso De Sentença Criminal,RSCr,425:Recurso De Sentença Criminal
+12057,Reexame Necessário Eleitoral,ReeNec-El,12057:Reexame Necessário Eleitoral
+11539,Registro De Partido Político,RPP,11539:Registro De Partido Político
+1462,Relatório De Investigações,RelInv,1462:Relatório De Investigações
+1040,Requisição De Pequeno Valor,RPV,1040:Requisição De Pequeno Valor
+1266,Requisição De Pequeno Valor,RPV,1266:Requisição De Pequeno Valor
+46,Restauração De Autos Cível,ResAutCiv,46:Restauração De Autos Cível
+1355,Siglas Dos Processos Extintos,SProcExt,1355:Siglas Dos Processos Extintos
+5,Superior Tribunal De Justiça,STJ,5:Superior Tribunal De Justiça
+12083,Tutela Antecipada Antecedente,TutAntAntec,12083:Tutela Antecipada Antecedente
+12135,Tutela Antecipada Antecedente,TutAntAnt,12135:Tutela Antecipada Antecedente
+12192,Tutela Provisória Incidental,TPI,12192:Tutela Provisória Incidental
+1717,Alienação De Bens Do Acusado,AlienBAc,1717:Alienação De Bens Do Acusado
+74,Alvará Judicial - Lei 6858/80,AlvJud,74:Alvará Judicial - Lei 6858/80
+53,Arrecadação Das Coisas Vagas,ArCoVa,53:Arrecadação Das Coisas Vagas
+12072,Busca E Apreensão Infracional,BusApreInfr,12072:Busca E Apreensão Infracional
+12550,Composição De Mesa Receptora,CMR,12550:Composição De Mesa Receptora
+93,Despejo Por Falta De Pagamento,DeFaPa,93:Despejo Por Falta De Pagamento
+1111,Execução De Título Judicial,ExTiJu,1111:Execução De Título Judicial
+107,Expropriação Da Lei 8.257/91,Exprop,107:Expropriação Da Lei 8.257/91
+11789,Impugnação Ao Valor Da Causa,IVCCrim,11789:Impugnação Ao Valor Da Causa
+12781,Impugnação Ao Valor Da Causa,IVC,12781:Impugnação Ao Valor Da Causa
+119,Mandado De Segurança Coletivo,MSCol,119:Mandado De Segurança Coletivo
+1710,Mandado De Segurança Criminal,MSCrim,1710:Mandado De Segurança Criminal
+12070,Pedido De Medida De Proteção,PedMedProt,12070:Pedido De Medida De Proteção
+290,Processo Sumário (Detenção),PrSuD,290:Processo Sumário (Detenção)
+193,Produção Antecipada Da Prova,PAP,193:Produção Antecipada Da Prova
+1378,Recurso De Apreensão De Livro,RAL,1378:Recurso De Apreensão De Livro
+12760,Recurso De Julgamento Parcial ,RJParc,12760:Recurso De Julgamento Parcial 
+1009,Recurso Ordinário Trabalhista,ROT,1009:Recurso Ordinário Trabalhista
+11538,Registro De Comitê Financeiro,RCF,11538:Registro De Comitê Financeiro
+12191,Tutela Provisória Antecedente,TPA,12191:Tutela Provisória Antecedente
+1461,Auto De Apreensão Em Flagrante,AuApFl,1461:Auto De Apreensão Em Flagrante
+82,Cancelamento De Naturalização,CanNat,82:Cancelamento De Naturalização
+221,Conflito De Competência Cível,CCCiv,221:Conflito De Competência Cível
+95,Direta De Inconstitucionalidade,ADI,95:Direta De Inconstitucionalidade
+1689,Embargos De Declaração Cível,EDCiv,1689:Embargos De Declaração Cível
+12080,Incidente De Impedimento Cível,IncImp,12080:Incidente De Impedimento Cível
+12081,Incidente De Suspeição Cível,IncSus,12081:Incidente De Suspeição Cível
+1685,Remessa Necessária Trabalhista,RemNecTrab,1685:Remessa Necessária Trabalhista
+136,Remição Do Imóvel Hipotecado,ReImHi,136:Remição Do Imóvel Hipotecado
+291,Restauração De Autos Criminal,ResAutCrim,291:Restauração De Autos Criminal
+11556,Suspensão De Segurança Cível,SSCiv,11556:Suspensão De Segurança Cível
+61,Tutela E Curatela -  Nomeação,TuCuNo,61:Tutela E Curatela -  Nomeação
+1728,Apelação / Remessa Necessária,ApelRemNec,1728:Apelação / Remessa Necessária
+11038,Embargos Em Ação Penal Militar,EmbAPM,11038:Embargos Em Ação Penal Militar
+1020,Execução Em Ação Rescisória,ExeAR,1020:Execução Em Ação Rescisória
+1731,Investigação Contra Magistrado,InvMag,1731:Investigação Contra Magistrado
+275,Notificação Para Explicações,NotExp,275:Notificação Para Explicações
+12193,Prestação De Contas Eleitorais,PCE,12193:Prestação De Contas Eleitorais
+316,Questões E Processos Incidentes,QuPrIn,316:Questões E Processos Incidentes
+1346,Recurso Em Mandado De Injunção,RMI,1346:Recurso Em Mandado De Injunção
+1347,Recurso Em Mandado De Segurança,RMS,1347:Recurso Em Mandado De Segurança
+1027,Sentença Estrangeira Contestada,SEC,1027:Sentença Estrangeira Contestada
+1351,Sentença Estrangeira Contestada,SEC,1351:Sentença Estrangeira Contestada
+1354,Suspensão De Tutela Provisória,STP,1354:Suspensão De Tutela Provisória
+1045,Agravo Em Recurso Extraordinário,AgRE,1045:Agravo Em Recurso Extraordinário
+12086,Dissolução Parcial De Sociedade,DissParcSocied,12086:Dissolução Parcial De Sociedade
+420,Embargos De Declaração Criminal,EDCrim,420:Embargos De Declaração Criminal
+1271,Recurso De Medida Cautelar Cível,ReMeCaCiv,1271:Recurso De Medida Cautelar Cível
+251,Registro De Casamento Nuncupativo,ReCaNu,251:Registro De Casamento Nuncupativo
+1417,Regularização De Registro Civil,RegRegCiv,1417:Regularização De Registro Civil
+1382,Retificação De Nome Estrangeiro,RNE,1382:Retificação De Nome Estrangeiro
+1283,Superveniência De Doença Mental,SuDoMe,1283:Superveniência De Doença Mental
+1013,Agravo Em Recurso De Habeas Corpus,AgRHC,1013:Agravo Em Recurso De Habeas Corpus
+56,Especialização De Hipoteca Legal,EsHiLe,56:Especialização De Hipoteca Legal
+11399,Execução De Medida De Segurança,ExeMS,11399:Execução De Medida De Segurança
+12729,Execução De Medidas Alternativas,ExMedAlt,12729:Execução De Medidas Alternativas
+166,Insolvência Requerida Pelo Credor,IRPC,166:Insolvência Requerida Pelo Credor
+1124,Justificação De Dinheiro A Risco,JuDiRi,1124:Justificação De Dinheiro A Risco
+44,Prestação De Contas - Oferecidas,PrCoOf,44:Prestação De Contas - Oferecidas
+1068,Processo De Execução Trabalhista,ProcExeTrab,1068:Processo De Execução Trabalhista
+292,Processo Especial De Leis Esparsas,PELE,292:Processo Especial De Leis Esparsas
+11880,Recurso Extraordinário Com Agravo,ARE,11880:Recurso Extraordinário Com Agravo
+12076,Restabelecimento Do Poder Familiar,ResPodFam,12076:Restabelecimento Do Poder Familiar
+416,Apelação Em Mandado De Segurança,ApMS,416:Apelação Em Mandado De Segurança
+10980,Cumprimento Provisório De Decisão,CumPrDec,10980:Cumprimento Provisório De Decisão
+421,Embargos Infringentes E De Nulidade,EIfNu,421:Embargos Infringentes E De Nulidade
+321,Exceção De Ilegitimidade De Parte,IlePar,321:Exceção De Ilegitimidade De Parte
+1023,Execução Em Mandado De Segurança,ExeMS,1023:Execução Em Mandado De Segurança
+1021,Execução Em Sentença Estrangeira,ExeSE,1021:Execução Em Sentença Estrangeira
+1722,Recurso Ordinário Em Habeas Corpus,ROHC,1722:Recurso Ordinário Em Habeas Corpus
+326,Restituição De Coisas Apreendidas,ReCoAp,326:Restituição De Coisas Apreendidas
+12626,Agravo Em Recurso Especial Eleitoral,AREspE,12626:Agravo Em Recurso Especial Eleitoral
+1670,Ação De Improbidade Administrativa,AIA,1670:Ação De Improbidade Administrativa
+10943,Ação Penal - Procedimento Sumário,APSum,10943:Ação Penal - Procedimento Sumário
+985,Ação Trabalhista - Rito Ordinário,ATOrd,985:Ação Trabalhista - Rito Ordinário
+1451,Carta De Ordem Infância E Juventude,CartOrdIJ,1451:Carta De Ordem Infância E Juventude
+157,Cumprimento Provisório De Sentença,CumPrSe,157:Cumprimento Provisório De Sentença
+1296,Declaratória De Constitucionalidade,ADC,1296:Declaratória De Constitucionalidade
+1114,Execução Contra A Fazenda Pública,ECFP,1114:Execução Contra A Fazenda Pública
+12788,Execução Contra A Fazenda Pública,EFP,12788:Execução Contra A Fazenda Pública
+1466,Internação Com Atividades Externas,InAtEx,1466:Internação Com Atividades Externas
+1467,Internação Sem Atividades Externas,InAtEx,1467:Internação Sem Atividades Externas
+547,Juizados Da Infância E Da Juventude,JuizInfJuv,547:Juizados Da Infância E Da Juventude
+12248,Pedido De Cooperação Jurisdicional,PCoop,12248:Pedido De Cooperação Jurisdicional
+12136,Pedido De Mediação Pré-Processual,PMPP,12136:Pedido De Mediação Pré-Processual
+1072,Pedido De Revisão Do Valor Da Causa,PRVC,1072:Pedido De Revisão Do Valor Da Causa
+1339,Prisão Preventiva Para Extradição,PPE,1339:Prisão Preventiva Para Extradição
+1379,Recurso De Liquidação De Sentença,RLS,1379:Recurso De Liquidação De Sentença
+1064,Remessa Necessária Em Habeas Corpus,ROHC,1064:Remessa Necessária Em Habeas Corpus
+256,Representação Por Excesso De Prazo,REP,256:Representação Por Excesso De Prazo
+1683,Retificação De Registro De Imóvel,RetRegIm,1683:Retificação De Registro De Imóvel
+1036,Suspensão De Liminar E De Sentença,SLS,1036:Suspensão De Liminar E De Sentença
+11555,Suspensão De Liminar E De Sentença,SLS,11555:Suspensão De Liminar E De Sentença
+12059,Suspensão De Segurança - Eleitoral,SS-El,12059:Suspensão De Segurança - Eleitoral
+69,Alimentos - Lei Especial Nº 5.478/68,AlEsp,69:Alimentos - Lei Especial Nº 5.478/68
+282,Ação Penal De Competência Do Júri,Juri,282:Ação Penal De Competência Do Júri
+289,Crimes Contra A Propriedade Imaterial,CCPImat,289:Crimes Contra A Propriedade Imaterial
+319,Exceção De Incompetência De Juízo,ExcInc,319:Exceção De Incompetência De Juízo
+12247,Execução Extrajudicial De Alimentos,ExeExtAlim,12247:Execução Extrajudicial De Alimentos
+11397,Extinção Das Obrigações Do Falido,ExtObrFal,11397:Extinção Das Obrigações Do Falido
+231,Impugnação Ao Valor Da Causa Cível,IVCCiv,231:Impugnação Ao Valor Da Causa Cível
+11553,Instrução Provisória De Deserção,IPDes,11553:Instrução Provisória De Deserção
+11800,Instrução Provisória De Deserção,InstProvDes,11800:Instrução Provisória De Deserção
+309,Pedido De Busca E Apreensão Criminal,PBACrim,309:Pedido De Busca E Apreensão Criminal
+1426,Perda Ou Suspensão Do Poder Familiar,PeSusPodFam,1426:Perda Ou Suspensão Do Poder Familiar
+1470,Prestação De Serviços A Comunidade,PrSeCo,1470:Prestação De Serviços A Comunidade
+11533,Recurso Contra Expedição De Diploma,RCED,11533:Recurso Contra Expedição De Diploma
+145,Suspensão De Execução De Sentença,SuExSe,145:Suspensão De Execução De Sentença
+1314,Ação Direta De Inconstitucionalidade,ADI,1314:Ação Direta De Inconstitucionalidade
+283,Ação Penal - Procedimento Ordinário,APOrd,283:Ação Penal - Procedimento Ordinário
+1125,Ação Trabalhista - Rito Sumaríssimo,ATSum,1125:Ação Trabalhista - Rito Sumaríssimo
+1463,Boletim De Ocorrência Circunstanciada,BoOcCi,1463:Boletim De Ocorrência Circunstanciada
+294,Crimes Contra A Propriedade Industrial,CCPInd,294:Crimes Contra A Propriedade Industrial
+12153,Embargos Parciais À Ação Monitória,EmbParcMonit,12153:Embargos Parciais À Ação Monitória
+11026,Petição Infância E Juventude Cível,PetIJ,11026:Petição Infância E Juventude Cível
+11886,Recurso Ordinário - Rito Sumaríssimo,RORSum,11886:Recurso Ordinário - Rito Sumaríssimo
+1707,Reintegração / Manutenção De Posse,RtMtPosse,1707:Reintegração / Manutenção De Posse
+12137,Requerimento De Apreensão De Veículo,ReqAV,12137:Requerimento De Apreensão De Veículo
+143,Suprimento De Idade E/Ou Consentimento,SIEC,143:Suprimento De Idade E/Ou Consentimento
+1455,Carta Precatória Infância E Juventude,CartPrecIJ,1455:Carta Precatória Infância E Juventude
+295,Crimes Contra A Propriedade Intelectual,CCPInt,295:Crimes Contra A Propriedade Intelectual
+173,Embargos De Retenção Por Benfeitorias,EmReBe,173:Embargos De Retenção Por Benfeitorias
+1465,Execução De Medidas Sócio-Educativas,ExMeSo,1465:Execução De Medidas Sócio-Educativas
+12251,Execução De Título Judicial - Cejusc,ExeJudCEJUSC,12251:Execução De Título Judicial - Cejusc
+228,Exibição De Documento Ou Coisa Cível,ExDoCoCiv,228:Exibição De Documento Ou Coisa Cível
+12087,Incidente De Assunção De Competência,IAC,12087:Incidente De Assunção De Competência
+12791,Incidente De Assunção De Competência,IAC,12791:Incidente De Assunção De Competência
+11799,Instrução Provisória De Insubmissão,InstProvIns,11799:Instrução Provisória De Insubmissão
+12613,Pedido De Conciliação Pré-Processual,PCPP,12613:Pedido De Conciliação Pré-Processual
+11891,Procedimento De Controle Administrativo,PCA,11891:Procedimento De Controle Administrativo
+436,Procedimento Do Juizado Especial Cível,PJEC,436:Procedimento Do Juizado Especial Cível
+12138,Requerimento De Reintegração De Posse,ReqRP,12138:Requerimento De Reintegração De Posse
+10944,Ação Penal - Procedimento Sumaríssimo,APSumss,10944:Ação Penal - Procedimento Sumaríssimo
+1438,Busca E Apreensão Infância E Juventude,BusAprIJ,1438:Busca E Apreensão Infância E Juventude
+1440,Cautelar Inominada Infância E Juventude,CauInoIJ,1440:Cautelar Inominada Infância E Juventude
+97,Dissolução E Liquidação De Sociedade,DiLiSo,97:Dissolução E Liquidação De Sociedade
+991,Execução De Termo De Ajuste De Conduta,ExTAC,991:Execução De Termo De Ajuste De Conduta
+12762,Extinção Consensual De União Estável,ECUE,12762:Extinção Consensual De União Estável
+229,Impugnação Ao Cumprimento De Sentença,ImCuSe,229:Impugnação Ao Cumprimento De Sentença
+305,Liberdade Provisória Com Ou Sem Fiança,LibProv,305:Liberdade Provisória Com Ou Sem Fiança
+11976,Pedido De Busca E Apreensão Infracional,PedBusApreInfr,11976:Pedido De Busca E Apreensão Infracional
+1706,Procedimento Comum Infância E Juventude,ProcComIJ,1706:Procedimento Comum Infância E Juventude
+11793,Produção Antecipada De Provas Criminal,PAPCrim,11793:Produção Antecipada De Provas Criminal
+11893,Reclamação Para Garantia Das Decisões,RGD,11893:Reclamação Para Garantia Das Decisões
+12559,Regularização De Situação Do Eleitor,RSE,12559:Regularização De Situação Do Eleitor
+11027,Remessa Necessária / Recurso Ordinário,RemNecRO,11027:Remessa Necessária / Recurso Ordinário
+11036,Representação P/ Perda Da Graduação ,RPG,11036:Representação P/ Perda Da Graduação 
+1122,Tutela E Curatela - Remoção E Dispensa,TCRD,1122:Tutela E Curatela - Remoção E Dispensa
+11887,Acompanhamento De Cumprimento De Decisão,Cumprdec,11887:Acompanhamento De Cumprimento De Decisão
+203,Agravo De Instrumento Em Recurso Especial,AIRE,203:Agravo De Instrumento Em Recurso Especial
+1711,Agravo De Instrumento Em Recurso Especial,AIREsp,1711:Agravo De Instrumento Em Recurso Especial
+11526,Ação De Impugnação De Mandato Eletivo,AIME,11526:Ação De Impugnação De Mandato Eletivo
+1019,Embargos À Execução Em Medida Cautelar,EmbExecMC,1019:Embargos À Execução Em Medida Cautelar
+11788,Exibição De Documento Ou Coisa Criminal,ExDoCoCrim,11788:Exibição De Documento Ou Coisa Criminal
+12556,Impugnação Perante As Juntas Eleitorais,IpJE,12556:Impugnação Perante As Juntas Eleitorais
+986,Inquérito Para Apuração De Falta Grave,IAFG,986:Inquérito Para Apuração De Falta Grave
+153,Liquidação Provisória Por Arbitramento,LiPrAr,153:Liquidação Provisória Por Arbitramento
+12357,Pedido De Efeito Suspensivo À Apelação,SuspApel,12357:Pedido De Efeito Suspensivo À Apelação
+300,Procedimento Especial Da Lei Antitóxicos,PrEsAn,300:Procedimento Especial Da Lei Antitóxicos
+1464,Processo De Apuração De Ato Infracional,PrApAtInfr,1464:Processo De Apuração De Ato Infracional
+1046,Agravo Em Recurso De Mandado De Segurança,AgRMS,1046:Agravo Em Recurso De Mandado De Segurança
+11953,Arguição De Suspeição E De Impedimento,ArgSusImp,11953:Arguição De Suspeição E De Impedimento
+64,Ação Civil De Improbidade Administrativa,ACIA,64:Ação Civil De Improbidade Administrativa
+1704,Embargos De Terceiro Infância E Juventude,ETIJ,1704:Embargos De Terceiro Infância E Juventude
+1037,Embargos Infringentes Em Apelação Cível,EmbInfAC,1037:Embargos Infringentes Em Apelação Cível
+210,Embargos Infringentes Na Execução Fiscal,EIfEFis,210:Embargos Infringentes Na Execução Fiscal
+1018,Embargos À Execução Em Ação Recisoria,EmbExeAr,1018:Embargos À Execução Em Ação Recisoria
+385,Execução Penal E De Medidas Alternativas,ExeCri,385:Execução Penal E De Medidas Alternativas
+12230,Guarda C/C Destituição Do Poder Familiar,GuaDPF,12230:Guarda C/C Destituição Do Poder Familiar
+12374,Homologação Da Transação Extrajudicial,HTE,12374:Homologação Da Transação Extrajudicial
+112,Homologação De Transação Extrajudicial,HoTrEx,112:Homologação De Transação Extrajudicial
+1025,Incidente De Deslocamento De Competência ,IDC,1025:Incidente De Deslocamento De Competência 
+272,Representação Criminal/Notícia De Crime,RpCrNotCrim,272:Representação Criminal/Notícia De Crime
+1399,Tutela C/C Destituição Do Poder Familiar,TDPF,1399:Tutela C/C Destituição Do Poder Familiar
+1002,Agravo De Instrumento Em Recurso De Revista,AIRR,1002:Agravo De Instrumento Em Recurso De Revista
+1003,Agravo De Instrumento Em Recurso Ordinário,AIRO,1003:Agravo De Instrumento Em Recurso Ordinário
+1690,Ação Civil Pública Infância E Juventude,ACPIJ,1690:Ação Civil Pública Infância E Juventude
+11527,Ação De Investigação Judicial Eleitoral,AIJE,11527:Ação De Investigação Judicial Eleitoral
+1313,Ação Declaratória De Constitucionalidade,ADC,1313:Ação Declaratória De Constitucionalidade
+12549,Cancelamento De Inscrição Eleitoral (Cie),CIE,12549:Cancelamento De Inscrição Eleitoral (Cie)
+84,Cobrança De Cédula De Crédito Industrial,CCCI,84:Cobrança De Cédula De Crédito Industrial
+1066,Embargos Infringentes Em Ação Rescisória,EmbInfAR,1066:Embargos Infringentes Em Ação Rescisória
+992,Execução De Termo De Conciliação De Ccp,ExCCP,992:Execução De Termo De Conciliação De Ccp
+1691,Mandado De Segurança Infância E Juventude,MSInfJuvCiv,1691:Mandado De Segurança Infância E Juventude
+11890,Parecer De Mérito Sobre Anteprojeto De Lei,PAM,11890:Parecer De Mérito Sobre Anteprojeto De Lei
+1425,Prestação De Contas Infância E Juventude,PreConIJ,1425:Prestação De Contas Infância E Juventude
+1721,Recurso Ordinário Em Mandado De Segurança,ROMS,1721:Recurso Ordinário Em Mandado De Segurança
+1412,Adoção C/C Destituição Do Poder Familiar,AdoDPF,1412:Adoção C/C Destituição Do Poder Familiar
+1001,Agravo De Instrumento Em Agravo De Petição,AIAP,1001:Agravo De Instrumento Em Agravo De Petição
+1126,Ação Trabalhista - Rito Sumário (Alçada),ATAlc,1126:Ação Trabalhista - Rito Sumário (Alçada)
+11543,Criação De Zona Eleitoral Ou Remanejamento,CZER,11543:Criação De Zona Eleitoral Ou Remanejamento
+1137,Embargos De Divergência Em Recurso Especial,EmbDivREsp,1137:Embargos De Divergência Em Recurso Especial
+993,Execução De Certidão De Crédito Judicial,ExCCJ,993:Execução De Certidão De Crédito Judicial
+10974,Incidente De Falsidade Infância E Juventude,IncFalIJ,10974:Incidente De Falsidade Infância E Juventude
+59,Organização E Fiscalização De Fundação,OrFiFu,59:Organização E Fiscalização De Fundação
+1288,Transferência Entre Estabelecimentos Penais,TEEP,1288:Transferência Entre Estabelecimentos Penais
+12728,Transferência Entre Estabelecimentos Penais,TEEP,12728:Transferência Entre Estabelecimentos Penais
+81,Busca E Apreensão Em Alienação Fiduciária,BAAF,81:Busca E Apreensão Em Alienação Fiduciária
+11535,Cancelamento De Registro De Partido Político,CRPP,11535:Cancelamento De Registro De Partido Político
+1016,Embargos De Divergência Em Agravo Regimental,EmbAI,1016:Embargos De Divergência Em Agravo Regimental
+1432,Execução De Alimentos Infância E Juventude,ExeAliIJ,1432:Execução De Alimentos Infância E Juventude
+994,Execução Provisória Em Autos Suplementares,ExProvAS,994:Execução Provisória Em Autos Suplementares
+11534,Procedimentos Relativos A Partidos Políticos,PRPP,11534:Procedimentos Relativos A Partidos Políticos
+11398,Recurso Em Sentido Estrito/Recurso Ex Officio,RSEExOf,11398:Recurso Em Sentido Estrito/Recurso Ex Officio
+12557,Recurso/Impugnação De Alistamento Eleitoral,RIAE,12557:Recurso/Impugnação De Alistamento Eleitoral
+51,"Abertura, Registro E Cumprimento De Testamento",ARCT,"51:Abertura, Registro E Cumprimento De Testamento"
+976,Ação Anulatória De Cláusulas Convencionais,AACC,976:Ação Anulatória De Cláusulas Convencionais
+11037,Ação Penal Militar - Procedimento Ordinário,APMOrd,11037:Ação Penal Militar - Procedimento Ordinário
+10970,Conflito De Competência Infância E Juventude,CCIJ,10970:Conflito De Competência Infância E Juventude
+10975,Exceção De Impedimento Infância E Juventude,ExcImpIJ,10975:Exceção De Impedimento Infância E Juventude
+10977,Exceção De Suspeição Infância E Juventude,ExcSusIJ,10977:Exceção De Suspeição Infância E Juventude
+1022,Execução Em Sentença Estrangeira Contestada,ExeSEC,1022:Execução Em Sentença Estrangeira Contestada
+12386,Incidente De Impedimento Infância E Juventude,IncImpIJ,12386:Incidente De Impedimento Infância E Juventude
+12388,Incidente De Suspeição Infância E Juventude,IncSusIJ,12388:Incidente De Suspeição Infância E Juventude
+285,Processo Especial Do Código De Processo Penal,PECPP,285:Processo Especial Do Código De Processo Penal
+12763,Reconhecimento E Extinção De União Estável,REUE,12763:Reconhecimento E Extinção De União Estável
+1719,Avaliação Para Atestar Dependência De Drogas,AvalDep,1719:Avaliação Para Atestar Dependência De Drogas
+87,Conversão De Separação Judicial Em Divórcio,CSJD,87:Conversão De Separação Judicial Em Divórcio
+1017,Embargos À Execução Em Mandado De Segurança,EmbExeMS,1017:Embargos À Execução Em Mandado De Segurança
+12555,Impugnação À Composição De Junta Eleitoral,ICJE,12555:Impugnação À Composição De Junta Eleitoral
+1733,Procedimento Investigatório Criminal (Pic-Mp) ,PICMP,1733:Procedimento Investigatório Criminal (Pic-Mp) 
+11794,Restituição De Coisas Apreendidas Infracional,ReCoApInfr,11794:Restituição De Coisas Apreendidas Infracional
+204,Agravo De Instrumento Em Recurso Extraordinário,AIRE,204:Agravo De Instrumento Em Recurso Extraordinário
+88,Correição Parcial Ou Reclamação Correicional,CorPar,88:Correição Parcial Ou Reclamação Correicional
+12085,Incidente De Resolução De Demandas Repetitivas,IRDR,12085:Incidente De Resolução De Demandas Repetitivas
+10967,Medidas Protetivas - Estatuto Do Idoso Criminal ,MedProtEICrim,10967:Medidas Protetivas - Estatuto Do Idoso Criminal 
+1294,Outros Procedimentos De Jurisdição Voluntária,OPJV,1294:Outros Procedimentos De Jurisdição Voluntária
+144,Suspensão De Liminar Ou Antecipação De Tutela,SLAT,144:Suspensão De Liminar Ou Antecipação De Tutela
+12120,Agravo Em Execução De Medidas Sócio-Educativas,AgExMSo,12120:Agravo Em Execução De Medidas Sócio-Educativas
+10976,Exceção De Incompetência Infância E Juventude,ExcIncIJ,10976:Exceção De Incompetência Infância E Juventude
+12077,Homologação Em Acordo De Colaboração Premiada,HomoAcColPrem,12077:Homologação Em Acordo De Colaboração Premiada
+152,Liquidação De Sentença Pelo Procedimento Comum,LiqProcedCom,152:Liquidação De Sentença Pelo Procedimento Comum
+155,Procedimento De Cumprimento De Sentença/Decisão,MPCA,155:Procedimento De Cumprimento De Sentença/Decisão
+1390,Revisão Judicial De Decisão Do Conselho Tutelar,RJDCT,1390:Revisão Judicial De Decisão Do Conselho Tutelar
+12078,Cumprimento De Sentença Contra A Fazenda Pública,CumSenFaz,12078:Cumprimento De Sentença Contra A Fazenda Pública
+12424,Medidas Protetivas - Estatuto Do Idoso Infracional,MPUEIInfr,12424:Medidas Protetivas - Estatuto Do Idoso Infracional
+276,Notificação Para Explicações (Lei De Imprensa),NotExpLI,276:Notificação Para Explicações (Lei De Imprensa)
+12561,Notícia De Irregularidade Em Propaganda Eleitoral,NIP,12561:Notícia De Irregularidade Em Propaganda Eleitoral
+273,Pedido De Arquivamento Em Representação Criminal,PARC,273:Pedido De Arquivamento Em Representação Criminal
+11029,Procedimentos Especiais Previstos Em Leis Esparsas,PEPLE,11029:Procedimentos Especiais Previstos Em Leis Esparsas
+28,Anulação E Substituição De Títulos Ao Portador,ASTP,28:Anulação E Substituição De Títulos Ao Portador
+91,Desapropriação Imóvel Rural Por Interesse Social,DIRIS,91:Desapropriação Imóvel Rural Por Interesse Social
+11540,Procedimentos Administrativos Da Justiça Eleitoral,PAdmJEl,11540:Procedimentos Administrativos Da Justiça Eleitoral
+27,Procedimentos Especiais De Jurisdição Contenciosa,PEJC,27:Procedimentos Especiais De Jurisdição Contenciosa
+50,Procedimentos Especiais De Jurisdição Voluntária,PEJV,50:Procedimentos Especiais De Jurisdição Voluntária
+11529,Procedimentos Relativos A Realização De Eleição,PRRE,11529:Procedimentos Relativos A Realização De Eleição
+1322,Arguição De Descumprimento De Preceito Fundamental,ADPF,1322:Arguição De Descumprimento De Preceito Fundamental
+10973,Impugnação Ao Valor Da Causa Infância E Juventude,ImpVCIJ,10973:Impugnação Ao Valor Da Causa Infância E Juventude
+167,Insolvência Requerida Pelo Devedor Ou Pelo Espólio,IRPDPE,167:Insolvência Requerida Pelo Devedor Ou Pelo Espólio
+12129,Outros Incidentes De Execução Iniciados De Ofício,OIncExInOf,12129:Outros Incidentes De Execução Iniciados De Ofício
+310,Pedido De Quebra De Sigilo De Dados E/Ou Telefônico,QuebSig,310:Pedido De Quebra De Sigilo De Dados E/Ou Telefônico
+94,Despejo Por Falta De Pagamento Cumulado Com Cobrança,DFPCC,94:Despejo Por Falta De Pagamento Cumulado Com Cobrança
+11400,Agravo De Instrumento Em Recurso Ordinário Para O Stf,AIROSTF,11400:Agravo De Instrumento Em Recurso Ordinário Para O Stf
+287,Crimes De Responsabilidade Dos Funcionários Públicos,CRFP,287:Crimes De Responsabilidade Dos Funcionários Públicos
+11956,Embargos De Divergência Em Agravo Em Recurso Especial,EmbDivARESP,11956:Embargos De Divergência Em Agravo Em Recurso Especial
+10972,Exibição De Documento Ou Coisa Infância E Juventude,ExiDocCoiIJ,10972:Exibição De Documento Ou Coisa Infância E Juventude
+124,Pedido De Resposta Ou Retificação Da Lei De Imprensa,PRRLI,124:Pedido De Resposta Ou Retificação Da Lei De Imprensa
+11537,Registro De Órgão De Partido Político Em Formação,ROPPF,11537:Registro De Órgão De Partido Político Em Formação
+216,Incidente De Arguição De Inconstitucionalidade Cível,ArgIncCiv,216:Incidente De Arguição De Inconstitucionalidade Cível
+12560,Lista De Apoiamento Para Criação De Partido Político,LAP,12560:Lista De Apoiamento Para Criação De Partido Político
+302,Procedimento Especial Dos Crimes De Abuso De Autoridade,PECAA,302:Procedimento Especial Dos Crimes De Abuso De Autoridade
+1262,Processo Administrativo Disciplinar Em Face De Servidor,PADServ,1262:Processo Administrativo Disciplinar Em Face De Servidor
+1414,Suprimento De Capacidade Ou De Consentimento Para Casar,SICMPPC,1414:Suprimento De Capacidade Ou De Consentimento Para Casar
+12231,Cumprimento De Sentença - Lei Arbitral (Lei 9.307/1996),CumSenArb,12231:Cumprimento De Sentença - Lei Arbitral (Lei 9.307/1996)
+12553,Duplicidade/Pluralidade De Inscrições - Coincidências,DPI,12553:Duplicidade/Pluralidade De Inscrições - Coincidências
+311,Medidas Investigatórias Sobre Organizações Criminosas,MISOC,311:Medidas Investigatórias Sobre Organizações Criminosas
+1705,"Remoção, Modificação  E Dispensa De Tutor Ou Curador",RemModDisTutCur,"1705:Remoção, Modificação  E Dispensa De Tutor Ou Curador"
+1391,Apuração De Irregularidades Em Entidades De Atendimento,AIEA,1391:Apuração De Irregularidades Em Entidades De Atendimento
+1178,Incidente De Arguição De Inconstitucionalidade Criminal,ArgInc,1178:Incidente De Arguição De Inconstitucionalidade Criminal
+12119,Incidente De Desconsideração De Personalidade Jurídica,IDPJ,12119:Incidente De Desconsideração De Personalidade Jurídica
+299,Procedimento Do Juizado Especial Criminal - Sumariíssimo,ProSum,299:Procedimento Do Juizado Especial Criminal - Sumariíssimo
+1264,Processo Administrativo Disciplinar Em Face De Magistrado,PADMag,1264:Processo Administrativo Disciplinar Em Face De Magistrado
+457,Pedido De Uniformização De Interpretação De Lei Cível,PUILCiv,457:Pedido De Uniformização De Interpretação De Lei Cível
+315,Pedido De Prisão/ Liberdade Vigiada Para Fins De Expulsão,PedPrisLVExpuls,315:Pedido De Prisão/ Liberdade Vigiada Para Fins De Expulsão
+12246,Cumprimento De Sentença De Obrigação De Prestar Alimentos,CumSenAlim,12246:Cumprimento De Sentença De Obrigação De Prestar Alimentos
+1015,Embargos De Divergência Em Recurso De Mandado De Segurança,EmbDivRMS,1015:Embargos De Divergência Em Recurso De Mandado De Segurança
+1434,Execução De Medida De Proteção À Criança E Adolescente,MPCA,1434:Execução De Medida De Proteção À Criança E Adolescente
+1117,Execução Hipotecária Do Sistema Financeiro Da Habitação,ExHipSFH,1117:Execução Hipotecária Do Sistema Financeiro Da Habitação
+11791,Pedido De Uniformização De Interpretação De Lei Criminal,PUILCrim,11791:Pedido De Uniformização De Interpretação De Lei Criminal
+12089,Renovação De Permanência Em Estabelecimento Penal Federal,RPEPF,12089:Renovação De Permanência Em Estabelecimento Penal Federal
+12079,Execução De Título Extrajudicial Contra A Fazenda Pública,ExTiExFP,12079:Execução De Título Extrajudicial Contra A Fazenda Pública
+154,Liquidação Provisória De Sentença Pelo Procedimento Comum,LiPrPorcedCom,154:Liquidação Provisória De Sentença Pelo Procedimento Comum
+12088,Liquidação Provisória De Sentença Pelo Procedimento Comum,LiqPvSenProcComum,12088:Liquidação Provisória De Sentença Pelo Procedimento Comum
+1268,Medidas Protetivas De Urgência (Lei Maria Da Penha) Criminal,MPUMPCrim,1268:Medidas Protetivas De Urgência (Lei Maria Da Penha) Criminal
+1682,Retificação Ou Suprimento Ou Restauração De Registro Civil,RSRRC,1682:Retificação Ou Suprimento Ou Restauração De Registro Civil
+12117,Suspensão Do Incidente De Resolução De Demandas Repetitivas,SIRDR,12117:Suspensão Do Incidente De Resolução De Demandas Repetitivas
+12118,Suspensão Em Incidente De Resolução De Demandas Repetitivas,SIRDR,12118:Suspensão Em Incidente De Resolução De Demandas Repetitivas
+29,Apreensão E Depósito De Coisa Vendida Com Reserva De Domínio,ADCVRD,29:Apreensão E Depósito De Coisa Vendida Com Reserva De Domínio
+12423,Medidas Protetivas De Urgência (Lei Maria Da Penha) Infracional,MPUMPInfr,12423:Medidas Protetivas De Urgência (Lei Maria Da Penha) Infracional
+230,Impugnação Ao Pedido De Assistência Litisconsorcial Ou Simples,IPALS,230:Impugnação Ao Pedido De Assistência Litisconsorcial Ou Simples
+11035,Representação P/ Declaração De Indignidade/Incompatibilidade ,RDII,11035:Representação P/ Declaração De Indignidade/Incompatibilidade 
+1306,Recurso Em Processo Administrativo Disciplinar Em Face De Servidor,RPADServ,1306:Recurso Em Processo Administrativo Disciplinar Em Face De Servidor
+12133,Tutela Provisória De Urgência E Tutela Provisória De Evidência,TutPro,12133:Tutela Provisória De Urgência E Tutela Provisória De Evidência
+11099,Procedimentos Pré-Processuais De Resolução Consensual De Conflitos,PPPRCC,11099:Procedimentos Pré-Processuais De Resolução Consensual De Conflitos
+62,"Procedimentos Regidos Por Outros Códigos, Leis Esparsas E Regimentos",PROCLER,"62:Procedimentos Regidos Por Outros Códigos, Leis Esparsas E Regimentos"
+138,Restituição De Coisa Ou Dinheiro Na Falência Do Devedor Empresário,RCDFDE,138:Restituição De Coisa Ou Dinheiro Na Falência Do Devedor Empresário
+12132,Incidente De Julgamento De Recurso De Revista E De Embargos Repetitivos,IncJulgRREmbRep,12132:Incidente De Julgamento De Recurso De Revista E De Embargos Repetitivos
+11798,Processo De Aplicação De Medida De Segurança Por Fato Não Criminoso,ProcApMSegFNC,11798:Processo De Aplicação De Medida De Segurança Por Fato Não Criminoso
+12190,Suspensão Nacional Do Incidente De Resolução De Demandas Repetitivas,SNIRDR,12190:Suspensão Nacional Do Incidente De Resolução De Demandas Repetitivas
+12631,Requerimento De Regularização De Omissão De Prestação De Contas Anual,RROPCO,12631:Requerimento De Regularização De Omissão De Prestação De Contas Anual
+288,"Crimes De Calúnia, Injúria E Difamação De Competência Do Juiz Singular",CCIDCJS,"288:Crimes De Calúnia, Injúria E Difamação De Competência Do Juiz Singular"
+12074,Pedido De Desinternação/Reavaliação/Substituição/Suspensão Da Medida,PedDesReavSubsSus,12074:Pedido De Desinternação/Reavaliação/Substituição/Suspensão Da Medida
+12633,Requerimento De Regularização De Omissão De Prestação De Contas Eleitorais,RROPCE,12633:Requerimento De Regularização De Omissão De Prestação De Contas Eleitorais
+1392,Apuração De Infração Administrativa Às Normas De Proteção À Criança Ou Adolescente,AIANPCA,1392:Apuração De Infração Administrativa Às Normas De Proteção À Criança Ou Adolescente
+108,"Falência De Empresários, Sociedades Empresáriais, Microempresas E Empresas De Pequeno Porte",FESEMEPP,"108:Falência De Empresários, Sociedades Empresáriais, Microempresas E Empresas De Pequeno Porte"
+12790,Extensão,,12790:Extensão
+12124,Roteiro De Pena,,12124:Roteiro De Pena
+12390,Ação De Partilha,,12390:Ação De Partilha
+12464,Corregedoria Eleitoral,,12464:Corregedoria Eleitoral
+12786,Cumprimento De Sentença,,12786:Cumprimento De Sentença
+12630,Representação Especial,,12630:Representação Especial
+12058,Suspensão De Segurança,,12058:Suspensão De Segurança
+12776,Arguição De Impedimento,,12776:Arguição De Impedimento
+426,Recurso Em Sentido Estrito,,426:Recurso Em Sentido Estrito
+12777,Exceção De Incompetência,,12777:Exceção De Incompetência
+12727,Execução De Pena De Multa,,12727:Execução De Pena De Multa
+1730,Recurso Ordinário Criminal,,1730:Recurso Ordinário Criminal
+12778,Exceção De Litispendência,,12778:Exceção De Litispendência
+12779,Proposta De Súmula Vinculante,,12779:Proposta De Súmula Vinculante
+424,Recurso De Medida Cautelar Criminal,,424:Recurso De Medida Cautelar Criminal
+12787,Execução Contra A Fazenda Pública,,12787:Execução Contra A Fazenda Pública
+10981,Impugnação Ao Cumprimento  De Decisão,,10981:Impugnação Ao Cumprimento  De Decisão
+1702,Impugnação De Assistência Judiciária,,1702:Impugnação De Assistência Judiciária
+11790,Impugnação De Assistência Judiciária,,11790:Impugnação De Assistência Judiciária
+1712,Agravo De Instrumento Em Recurso Extraordinário,,1712:Agravo De Instrumento Em Recurso Extraordinário
+12775,Ação Direta De Inconstitucionalidade Por Omissão,,12775:Ação Direta De Inconstitucionalidade Por Omissão
+12632,Requerimento De Regularização De Omissão De Prestação De Contas Anual,,12632:Requerimento De Regularização De Omissão De Prestação De Contas Anual
+12628,Ação De Justificação De Desfiliação Partidária/Perda De Cargo Eletivo,,12628:Ação De Justificação De Desfiliação Partidária/Perda De Cargo Eletivo
+202,Agravo De Instrumento,AI,202:Agravo De Instrumento
+1044,Agravo De Instrumento,AI,1044:Agravo De Instrumento
+1320,Agravo De Instrumento,AI,1320:Agravo De Instrumento
+1033,Ação Penal,AP,1033:Ação Penal
+1317,Ação Penal,AP,1317:Ação Penal
+1004,Agravo De Petição,AP,1004:Agravo De Petição
+47,Ação Rescisória,AR,47:Ação Rescisória
+1318,Ação Rescisória,AR,1318:Ação Rescisória
+1669,Ação Rescisória,AR,1669:Ação Rescisória
+1054,Conflito De Competência,CC,1054:Conflito De Competência
+1145,Conflito De Competência,CC,1145:Conflito De Competência
+1326,Conflito De Competência,CC,1326:Conflito De Competência
+110,Habeas Data,HD,110:Habeas Data
+1049,Habeas Data,HD,1049:Habeas Data
+1332,Habeas Data,HD,1332:Habeas Data
+118,Mandado De Injunção,MI,118:Mandado De Injunção
+1335,Mandado De Injunção,MI,1335:Mandado De Injunção
+1675,Mandado De Injunção,MI,1675:Mandado De Injunção
+1038,Representação,Rp,1038:Representação
+1381,Representação,Rp,1381:Representação
+11541,Representação,Rp,11541:Representação
+169,Embargos,Emb,169:Embargos
+207,Embargos,Emb,207:Embargos
+1006,Embargos,Emb,1006:Embargos
+12060,Exceção,Exc,12060:Exceção
+317,Exceções,Exc,317:Exceções
+10971,Exceções,Exc,10971:Exceções
+233,Incidente De Uniformização De Jurisprudência,IUJ,233:Incidente De Uniformização De Jurisprudência
+433,Incidente De Uniformização De Jurisprudência,IUJ,433:Incidente De Uniformização De Jurisprudência
+12391,Incidente De Uniformização De Jurisprudência,IUJ,12391:Incidente De Uniformização De Jurisprudência
+215,Incidentes,Inc,215:Incidentes
+331,Incidentes,Inc,331:Incidentes
+406,Incidentes,Inc,406:Incidentes
+10969,Incidentes,Inc,10969:Incidentes
+244,Reclamação,Rcl,244:Reclamação
+1030,Reclamação,Rcl,1030:Reclamação
+1202,Reclamação,Rcl,1202:Reclamação
+1342,Reclamação,Rcl,1342:Reclamação
+12375,Reclamação,Rcl,12375:Reclamação
+197,Recursos,Rec,197:Recursos
+412,Recursos,Rec,412:Recursos
+11033,Recursos,Rec,11033:Recursos
+257,Cartas,Cartas,257:Cartas
+334,Cartas,Cartas,334:Cartas
+1450,Cartas,Cartas,1450:Cartas
+1473,Cartas,Cartas,1473:Cartas
+99,Divórcio Litigioso,DivLit,99:Divórcio Litigioso
+12373,Divórcio Litigioso,DivLit,12373:Divórcio Litigioso
+12541,Divórcio Litigioso,DivLit,12541:Divórcio Litigioso
+159,Execução De Título Extrajudicial,ExTiEx,159:Execução De Título Extrajudicial
+990,Execução De Título Extrajudicial,ExTiEx,990:Execução De Título Extrajudicial
+12154,Execução De Título Extrajudicial,ExTiEx,12154:Execução De Título Extrajudicial
+277,Procedimentos Investigatórios,ProcInv,277:Procedimentos Investigatórios
+1460,Procedimentos Investigatórios,ProcInv,1460:Procedimentos Investigatórios
+11032,Procedimentos Investigatórios,ProcInv,11032:Procedimentos Investigatórios
