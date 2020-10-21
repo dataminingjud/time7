@@ -1,3 +1,5 @@
+![Logo Datamining JUD](https://storage.googleapis.com/ueizejud/publica/logo.png)
+
 # Bem-vindo ao app DATAmining JUD!
 
 DATAmining JUD é um aplicativo do Time 7 do Hackaton CNJ Inova - Desafio 1 : Tempo e Produtividade.
