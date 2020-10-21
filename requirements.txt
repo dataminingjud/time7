@@ -1,0 +1,5 @@
+streamlit
+graphviz
+pm4py
+graphviz
+seaborn
