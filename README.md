@@ -164,7 +164,7 @@ O aplicativo vai rodar na porta 80. Caso já exista outra aplicação escutando 
 
 ### Acessar o aplicativo no navegador
 
-Aponte o navegador para http://127.0.0.1/ (ou http://127.0.0.1:porta caso tenha alterado a porta) 
+Aponte o navegador para http://127.0.0.1/ (ou http://127.0.0.1:porta), caso tenha alterado a porta.
 
 ## Referências
 
