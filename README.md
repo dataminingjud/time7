@@ -4,6 +4,8 @@
 
 DATAmining JUD é um aplicativo do Time 7 do Hackaton CNJ Inova - Desafio 1 : Tempo e Produtividade.
 
+Vídeo de apresentação da solução: [https://youtu.be/lNBJYAE4hgc](https://youtu.be/lNBJYAE4hgc)
+
 A aplicação está disponível para testes em [https://storage.googleapis.com/ueizejud/index.html](https://storage.googleapis.com/ueizejud/index.html).
 
 Se quiser ir direto às instruções de instalação [clique aqui](#instalação).
